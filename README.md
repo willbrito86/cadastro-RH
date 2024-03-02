@@ -19,7 +19,7 @@
 ### > Criar o projeto no Spring
 ### > Mapear os Objetos
 ### > Fazer as configrações do Banco de Dados H2
-### > COnstruir os endpoints da Api
+### > Construir os endpoints da Api
 
 ## Funções do Projetos
 ### > Inserção de novos usuarios e seus dados
